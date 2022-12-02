@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1576638704 source:c:\users\administrator\desktop\os实训daytwo\d_memory_management\main.cpp
+	<iostream>
+	<cstdio>
+	<list>
+	<algorithm>
+	<typeinfo>
+
+1576660770 source:c:\users\administrator\desktop\os实训daythree\d_memory_management\main.cpp
+	<iostream>
+	<cstdio>
+	<list>
+	<algorithm>
+	<windows.h>
+
+1576724217 source:c:\users\administrator\desktop\os实训dayfour\d_memory_management\main.cpp
+	<iostream>
+	<cstdio>
+	<list>
+	<algorithm>
+	<windows.h>
+
+1576724786 source:c:\users\晗晗\desktop\os实训dayfive\d_memory_management\main.cpp
+	<iostream>
+	<cstdio>
+	<list>
+	<algorithm>
+	<windows.h>
+
+1577023766 source:f:\os实训dayfive\d_memory_management\main.cpp
+	<iostream>
+	<cstdio>
+	<list>
+	<algorithm>
+	<windows.h>
+
+1577023766 source:f:\os与编译原理实训项目\d_memory_management\main.cpp
+	<iostream>
+	<cstdio>
+	<list>
+	<algorithm>
+	<windows.h>
+
+1577350800 source:c:\users\晗晗\desktop\os与编译原理实训项目\d_memory_management\main.cpp
+	<iostream>
+	<cstdio>
+	<list>
+	<algorithm>
+	<windows.h>
+
